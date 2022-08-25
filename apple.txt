@@ -1,2 +1,3 @@
+generated PAT and used PAT instead of password while pushing
 updated via rhel server 
 apple files created here
